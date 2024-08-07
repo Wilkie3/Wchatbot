@@ -3,7 +3,7 @@ import requests
 # python 3.8 (3.8.16) or it doesn't work
 # pip install streamlit streamlit-chat langchain python-dotenv
 import streamlit as st
-from streamlit_chat import message
+#from streamlit_chat import message
 
 API_URL = "https://wilkie-hf-space-tuto.hf.space/api/v1/prediction/44ea4a5d-ba88-4f29-813c-47f71225c429"
 
