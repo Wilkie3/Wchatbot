@@ -5,7 +5,7 @@ import requests
 import streamlit as st
 from streamlit_chat import message
 
-API_URL = "http://147.182.183.132:3050/api/v1/prediction/19094c83-b696-4db0-99ef-7c84166c63d2"
+API_URL = "https://wilkie-hf-space-tuto.hf.space/api/v1/prediction/44ea4a5d-ba88-4f29-813c-47f71225c429"
 
 
 def query(payload):
